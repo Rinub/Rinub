@@ -38,14 +38,32 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="80" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png"></code>
 
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,936 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+🚧 **SKILLS**
+⋙ CODING LANGUAGE TOOLS
+ ► C, Python, R programming, IBM SPSS, Tensorflow, HTML, CSS, Javascript, Jupiter notebook, Git, Google collab, Visual studios
 
+⋙ DATA VISUALIZATION/BI TOOLS
+► Google Analytics
+► Microsoft Dynamics CRM
+► Tableau Software
+► Microsoft Power BI
 
+⋙ DATABASES
+► MongoDB
+► MySQL
+► PostgreSQL
+
+⋙ DATA WAREHOUSE
+► Apache Hive
+
+⋙ RESEARCH ► Data science methods, Data mining, Survey Creations, Focus Groups, Machine learning, Deep learning, Business Intelligence, Project Management Techniques, Knowledge of business structure.
+
+⋙ DATA MANAGEMENT ► Database Design & Management, Data Quality, Pattern & trend identification, visualization of data insights
+
+ ◆ ACHIEVEMENTS  ◆
+•	In the year 2018, a qualifier in DST&TEXAS INSTRUMENTS India innovation challenge design.
+•	Attained TOP 10% of a scorer in National Mathematics Talent Contest conducted by AMTI (THE ASSOCIATION OF MATHEMATICS TEACHERS OF INDIA)
+•	In 2012, Achieved the best troop award in NCC (National Cadet Corps) combined annual training camp. 
+•	IECD (Institute for Entrepreneurship and Career Development) conducted a C programming practical and project examination, Scored S+ GRADE (I-Exemplary) in practical and S GRADE (I-Distinction) in C programming project.
 
 
