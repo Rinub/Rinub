@@ -18,7 +18,7 @@ Hi, i'm [Ibrahim Rinub Babu](https://www.linkedin.com/in/ibrahimrinub/), Candida
   
 - 💬 Please do not hesitate to contact me with any questions or concerns; I will be pleased to assist you.
 
-**languages and tools:**  
+**Languages and Frameworks:**  
 
 <code><img height="80" src="https://th.bing.com/th/id/OIP.kij1QlZKaZtCPtEbWQpiVAHaCz?pid=ImgDet&rs=1"></code>
 <code><img height="80" src="https://friconix.com/png/fi-xnsuxx-tensorflow.png"></code>
