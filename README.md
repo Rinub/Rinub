@@ -23,16 +23,16 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 **languages and tools:**  
 
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="60" src="https://friconix.com/png/fi-xnsuxx-tensorflow.png"></code>
-<code><img height="60" src="https://th.bing.com/th/id/OIP.P9LmWsGguP4WwZSTWfw1qgAAAA?pid=ImgDet&rs=1"></code>
-<code><img height="60" src="https://th.bing.com/th/id/OIP.bzwqrp2A70m58vaFHu0uIgHaEK?pid=ImgDet&rs=1"></code>
-<code><img height="60" src="https://pluspng.com/img-png/logo-mongodb-png-mongo-db-badge-sticker-600.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="80" src="https://friconix.com/png/fi-xnsuxx-tensorflow.png"></code>
+<code><img height="80" src="https://th.bing.com/th/id/OIP.P9LmWsGguP4WwZSTWfw1qgAAAA?pid=ImgDet&rs=1"></code>
+<code><img height="80" src="https://th.bing.com/th/id/OIP.bzwqrp2A70m58vaFHu0uIgHaEK?pid=ImgDet&rs=1"></code>
+<code><img height="80" src="https://pluspng.com/img-png/logo-mongodb-png-mongo-db-badge-sticker-600.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 ** i spent my time on:**
 <!--START_SECTION:waka-->
