@@ -11,10 +11,8 @@
 
 <br />
 
-hi, i'm [Ibrahim Rinub Babu](https://www.linkedin.com/in/ibrahimrinub/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
+hi, i'm [Ibrahim Rinub Babu](https://www.linkedin.com/in/ibrahimrinub/), Having extensive knowledge of database types, research methodologies, and big data capture, curation, manipulation, and visualization. 
+➲ Passionate in uncovering and providing insights, analytics, and business intelligence through visualization to aid in the identification of opportunities, process reengineering, and corporate growth.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
