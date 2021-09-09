@@ -23,7 +23,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 **languages and tools:**  
 
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="80" src="https://th.bing.com/th/id/OIP.kij1QlZKaZtCPtEbWQpiVAHaCz?pid=ImgDet&rs=1"></code>
 <code><img height="80" src="https://friconix.com/png/fi-xnsuxx-tensorflow.png"></code>
 <code><img height="80" src="https://th.bing.com/th/id/OIP.P9LmWsGguP4WwZSTWfw1qgAAAA?pid=ImgDet&rs=1"></code>
 <code><img height="80" src="https://th.bing.com/th/id/OIP.bzwqrp2A70m58vaFHu0uIgHaEK?pid=ImgDet&rs=1"></code>
