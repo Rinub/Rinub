@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -11,7 +11,7 @@
 
 <br />
 
-hi, i'm [Ibrahim Rinub Babu](https://www.linkedin.com/in/ibrahimrinub/), Having extensive knowledge of database types, research methodologies, and big data capture, curation, manipulation, and visualization. 
+hi, i'm [Ibrahim Rinub Babu](https://www.linkedin.com/in/ibrahimrinub/), Candidate with highly analytical and process-oriented, with extensive knowledge of database types, research methodology, and big data acquisition, curation, manipulation, and visualization. Provide business intelligence, analytics, and insights to help with opportunity identification, process reengineering, and company growth.
 ➲ Passionate in uncovering and providing insights, analytics, and business intelligence through visualization to aid in the identification of opportunities, process reengineering, and corporate growth.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
