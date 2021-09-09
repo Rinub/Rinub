@@ -28,7 +28,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="80" src="https://th.bing.com/th/id/OIP.P9LmWsGguP4WwZSTWfw1qgAAAA?pid=ImgDet&rs=1"></code>
 <code><img height="80" src="https://th.bing.com/th/id/OIP.bzwqrp2A70m58vaFHu0uIgHaEK?pid=ImgDet&rs=1"></code>
 <code><img height="80" src="https://pluspng.com/img-png/logo-mongodb-png-mongo-db-badge-sticker-600.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="80" src="https://th.bing.com/th/id/R.2b4808d3f42736a2e61232030a423db0?rik=cFSNePStkUIPig&riu=http%3a%2f%2fcliparts.co%2fcliparts%2fATb%2fjr8%2fATbjr89ac.png&ehk=RLqIbDpNtMh%2fscraN0QXI4o3uz6a7uORHkQYBeCPdwk%3d&risl=&pid=ImgRaw&r=0"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
